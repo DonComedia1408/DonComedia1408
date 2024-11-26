@@ -1,7 +1,9 @@
 ## HOLA BUENOS DIAS 👋
 
 Mi nombre es Alejandro Cristian Radoi y soy un estodiante de CFGM de Sistemas microinformaticos y redes.
-Soy conocido por ser un payaso 24/7.
+Soy conocido por ser un payaso 24/7, me gusta jugar y programar videojuegos, al igual que me gusta el humor negro.
+
+
 
 <!--
 **DonComedia1408/DonComedia1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
