@@ -6,6 +6,7 @@ Soy conocido por ser un payaso 24/7, me gusta jugar y programar videojuegos, al 
 <br>
 
 ![descarga-_1_ - copia](https://github.com/user-attachments/assets/eb7f8477-58d3-4b4a-a425-e77f972dcc9d)
+![mokey.gif]
 
 <!--
 **DonComedia1408/DonComedia1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
