@@ -13,7 +13,7 @@ Soy conocido por ser un payaso 24/7, me gusta jugar y programar videojuegos, al 
 <br>
 
 [![DonComedia1408's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncomedia1408&show_icons=true&theme=neon&bg_color=00000000&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncomedia1408&layout=donut&show_icons=true&theme=neon&bg_color=00000000&locale=es&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncomedia1408&layout=donut&show_icons=true&theme=neon&bg_color=00000000&locale=es)
 <!--
 **DonComedia1408/DonComedia1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
