@@ -8,6 +8,8 @@ Soy conocido por ser un payaso 24/7, me gusta jugar y programar videojuegos, al 
 ![descarga-_1_ - copia](https://github.com/user-attachments/assets/eb7f8477-58d3-4b4a-a425-e77f972dcc9d)
 ![mokey.gif](https://github.com/DonComedia1408/DonComedia1408/blob/c2f76e6cb278c58d3d4088132ce0ebeba567a78a/mokey.gif)
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,windows,mint,discord,gmail&perline=4&theme=dark)](https://skillicons.dev)
 <!--
 **DonComedia1408/DonComedia1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
