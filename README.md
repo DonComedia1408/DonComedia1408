@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Learned_with-freeCodeCamp-#0A0A23?logo=freeCodeCamp)
+![Static Badge](https://img.shields.io/badge/Learned_with-freeCodeCamp-0A0A23?logo=freeCodeCamp)
 
 ## HOLA BUENOS DIAS 👋
 
