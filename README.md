@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Learned_with-freeCodeCamp-#0A0A23?logo=freeCodeCamp)
+
 ## HOLA BUENOS DIAS 👋
 
 Mi nombre es Alejandro Cristian Radoi y soy un estudiante de CFGM de Sistemas microinformaticos y redes.
